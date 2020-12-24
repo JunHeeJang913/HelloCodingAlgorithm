@@ -17,6 +17,7 @@ int binarySearch(T * list, T item){
         else
             high = mid - 1;        
     }
+    
     return -1;
 }
 
